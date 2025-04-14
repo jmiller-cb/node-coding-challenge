@@ -6,7 +6,7 @@
  * 1. Using a limit/page size of 10, fetch all the products from the API
  *  > Note: total count is available in the response.
  *
- * 2. Get all products with a price between 50 and 100 (inclusive)
+ * 2. Get all products with a price between two values (inclusive)
  *
  * 3. Get the total weight of all products in a cart
  *
